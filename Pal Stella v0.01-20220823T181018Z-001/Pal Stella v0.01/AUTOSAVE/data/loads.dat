@@ -1,0 +1,44 @@
+File Version	v3.03.00
+Modified Date	07/23/2020
+Modified Time	15:35:19
+
+LoadID	LoadName	RoomID	DIM_setting	Ramp_time	Upper_limit	Lower_limit	TotalWattage
+13	Bar Ares 102 1	-1	True	500	100	1	50
+14	Bar Area 102 2	-1	True	500	100	1	50
+15	Bar Area 102 3	-1	True	500	100	1	50
+16	Open Area 103 3	-1	True	500	100	1	50
+17	Open Area 105 4	-1	True	500	100	1	50
+18	Open Area 105 5	-1	True	500	100	1	50
+19	Open Area 103 4	-1	True	500	100	1	50
+20	Stair & Ramp 100	-1	True	500	100	1	50
+21	Open Area 103 105 2	-1	True	500	100	1	50
+23	Mens Bathroom Sconces	-1	True	500	100	1	50
+24	Open Area 105 3	-1	True	500	100	1	50
+25	Entry 106 1	-1	True	500	100	1	50
+26	Entry 106 2	-1	True	500	100	1	50
+27	Womens	-1	True	500	100	1	100
+28	Open Area 105 1	-1	True	500	100	1	100
+29	Open Area 105 2	-1	True	500	100	1	100
+30	Open Area 103 1	-1	True	500	100	1	100
+31	Open Area 103 2	-1	True	500	100	1	100
+32	Mens	-1	True	500	100	1	100
+33	Mens-copy	-1	True	500	100	1	100
+34	Mens-copy(2)	-1	True	500	100	1	100
+35	Mens-copy(3)	-1	True	500	100	1	100
+37	Bar Area 102 1	-1	True	500	100	1	50
+38	Back Bar	-1	True	500	100	1	50
+39	Stairs	-1	True	500	100	1	50
+40	Womens Bathroom 1	-1	True	500	100	1	50
+41	Womens Bathroom 2	-1	True	500	100	1	50
+42	Womens Bathroom 4	-1	True	500	100	1	50
+43	Womens Bathroom 3	-1	True	500	100	1	50
+47	Bar Area 102	-1	True	500	100	1	50
+48	Bar Area LED Strips (1)	-1	True	500	100	1	50
+49	Bar Area LED Strips (2)	-1	True	500	100	1	50
+50	Bar Area LED Strips (3)	-1	True	500	100	1	50
+51	Bar Area LED Strips (4)	-1	True	500	100	1	50
+52	Elevator Lobby	-1	True	500	100	1	100
+53	Elevator Lobby LED Strips	-1	True	500	100	1	120
+54	Open Area 103 105	-1	True	500	100	1	50
+55	Womens Bathroom Sconces	-1	True	500	100	1	100
+
